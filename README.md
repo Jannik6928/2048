@@ -4,5 +4,5 @@
 
  # Screenshots
 
-![Alt text](screenshots/screenshot1.png?raw=true)
-![Alt text](screenshots/screenshot2.png?raw=true)
+![Alt text](screenshots/screenshot1.PNG?raw=true "Gameplay")
+![Alt text](screenshots/screenshot1.PNG?raw=true "Gameplay")
